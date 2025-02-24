@@ -3,9 +3,19 @@ IcePie is a powerful steganography application that enables users to securely hi
 
 🔹 Features:
 ✅ Encode and decode hidden messages in images
+
+
 ✅ Uses 2-bit LSB steganography for efficient data hiding
+
+
 ✅ Preserves image quality after encryption
+
+
 ✅ User-friendly and intuitive interface
+
+
 ✅ Secure and efficient steganography
+
+
 
 🚀 Hide messages in plain sight with IcePie!

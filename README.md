@@ -1,7 +1,11 @@
 IcePie - Image Steganography Application
 IcePie is a powerful steganography application that enables users to securely hide messages within images using the 2-bit LSB (Least Significant Bit) technique. Designed for privacy and security, it ensures that sensitive information remains concealed while maintaining the original image quality.
 
+
+
 🔹 Features:
+
+
 ✅ Encode and decode hidden messages in images
 
 
